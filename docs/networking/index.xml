@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Networking on ZDoc</title>
+    <link>https://hypertheory.training/docs/networking/</link>
+    <description>Recent content in Networking on ZDoc</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Tue, 17 Aug 2021 14:59:15 -0400</lastBuildDate>
+    
+        <atom:link href="https://hypertheory.training/docs/networking/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Overview</title>
+        <link>https://hypertheory.training/docs/networking/overview/</link>
+        <pubDate>Sun, 15 Aug 2021 14:01:11 -0400</pubDate>
+        
+        <guid>https://hypertheory.training/docs/networking/overview/</guid>
+        <description>Developer and Computer Networking There are many developers that have been able to have rich, productive careers with only the basic rudimentary knowledge of computer networking.
+These days, especially in the world of Cloud Native software development, at least some basic knowledge of things like DNS, TCP ports, etc. are necessary.
+This information is being presented as a sort of &amp;ldquo;cheat sheet&amp;rdquo; to get you up to speed.</description>
+      </item>
+      
+      <item>
+        <title>Local Area Networks</title>
+        <link>https://hypertheory.training/docs/networking/local-area-networks/</link>
+        <pubDate>Sun, 15 Aug 2021 14:15:12 -0400</pubDate>
+        
+        <guid>https://hypertheory.training/docs/networking/local-area-networks/</guid>
+        <description>What is a LAN (Local Area Network)? A LAN is a &amp;ldquo;Local Area Network&amp;rdquo;, and in general usage, it is what your computer connects to on the network. You can connect either with a wire (usually Ethernet), or Wirelessly (Wifi). When you connect your computer to the LAN, it is given a private address. In other words, only other computers on the same LAN can access your computer directly. It&amp;rsquo;s like your computer exists in it&amp;rsquo;s own little world.</description>
+      </item>
+      
+      <item>
+        <title>Host Names and IP Addresses</title>
+        <link>https://hypertheory.training/docs/networking/host-names-and-ip/</link>
+        <pubDate>Sun, 15 Aug 2021 14:24:24 -0400</pubDate>
+        
+        <guid>https://hypertheory.training/docs/networking/host-names-and-ip/</guid>
+        <description>Naming Nodes on the Network Each computer (technically a &amp;ldquo;node&amp;rdquo;) on the network has three ways they are identified:
+ A &amp;ldquo;friendly&amp;rdquo; hostname. Your computer name. An internet IP Address A MAC Address  So, for example, you try to connect to another machine on your network you might use a UNC address. That is something like typing \\somecomputer\someshare into the Windows Explorer address bar, or mapping a network drive. The somecomputer portion of that is the hostname.</description>
+      </item>
+      
+      <item>
+        <title>Localhost</title>
+        <link>https://hypertheory.training/docs/networking/localhost/</link>
+        <pubDate>Sun, 15 Aug 2021 14:25:57 -0400</pubDate>
+        
+        <guid>https://hypertheory.training/docs/networking/localhost/</guid>
+        <description>LocalHost Just like we all have names (but probably not IP Addresses or MAC Addresses), we can always refer to ourselves as &amp;ldquo;me&amp;rdquo;. The &amp;ldquo;me&amp;rdquo; of computer networks is localhost. This is an alias for whatever machine you are currently on. So, if you type, for example, \\localhost in your Windows Explorer, you are saying &amp;ldquo;Show me the network stuff available on this machine&amp;rdquo;. If you machine&amp;rsquo;s hostname was captain-levi, typing \\localhost and \\captain-leviare the same things.</description>
+      </item>
+      
+      <item>
+        <title>Virtual Private Networks</title>
+        <link>https://hypertheory.training/docs/networking/vpn/</link>
+        <pubDate>Sun, 15 Aug 2021 14:30:15 -0400</pubDate>
+        
+        <guid>https://hypertheory.training/docs/networking/vpn/</guid>
+        <description>Virtual Private Networks A VPN (Virtual Private Network) is a way for you to connect to an internal, private network from outside the network as if you were connected locally. The VPN creates a &amp;ldquo;tunnel&amp;rdquo; through the public internet that is encrypted and secure.</description>
+      </item>
+      
+      <item>
+        <title>Segments, Subnets, Gates and Switches</title>
+        <link>https://hypertheory.training/docs/networking/subnetting/</link>
+        <pubDate>Sun, 15 Aug 2021 14:31:59 -0400</pubDate>
+        
+        <guid>https://hypertheory.training/docs/networking/subnetting/</guid>
+        <description>Breaking up Big Networks Segments Our networks are broken into groups to manage traffic load. These are called segments, or subnets and IP addresses have embedded in them information about what segment or subnet your computer belongs to subnet masking.
+The difference between a subnet and a segment is that segments are subnets that are physically separated from other network segments by hardware (usually a network switch).
+Gateways A gateway is a device that translates from one network type to another.</description>
+      </item>
+      
+      <item>
+        <title>OSI Model and Network Layers</title>
+        <link>https://hypertheory.training/docs/networking/osi-model/</link>
+        <pubDate>Sun, 15 Aug 2021 14:33:31 -0400</pubDate>
+        
+        <guid>https://hypertheory.training/docs/networking/osi-model/</guid>
+        <description>Conceptual Model for Complex Networks The OSI Model attempts to explain the architecture of computer networks, and the functionality that is provided all the way from how the electrons are received by your computer (Physical Layer at the bottom) to how applications talk to each other (Application Layer).
+You might here networking people talking about the layers to identify the functionality of different types of software or hardware. A &amp;ldquo;Layer 2 Switch&amp;rdquo; vs.</description>
+      </item>
+      
+    
+  </channel>
+</rss>

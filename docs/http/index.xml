@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Http on ZDoc</title>
+    <link>https://hypertheory.training/docs/http/</link>
+    <description>Recent content in Http on ZDoc</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Tue, 17 Aug 2021 15:33:17 -0400</lastBuildDate>
+    
+        <atom:link href="https://hypertheory.training/docs/http/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+    
+  </channel>
+</rss>

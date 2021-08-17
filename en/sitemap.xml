@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://hypertheory.training/updates/2019_may/</loc>
+    <lastmod>2020-01-28T00:10:51+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hypertheory.training/updates/2019_april/</loc>
+    <lastmod>2020-01-28T00:10:48+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hypertheory.training/updates/2019_march/</loc>
+    <lastmod>2020-01-28T00:10:42+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hypertheory.training/updates/2019_february/</loc>
+    <lastmod>2020-01-28T00:10:37+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hypertheory.training/updates/2019_january/</loc>
+    <lastmod>2020-01-28T00:10:09+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hypertheory.training/docs/networking/overview/</loc>
+    <lastmod>2021-08-15T14:01:11-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hypertheory.training/docs/networking/</loc>
+    <lastmod>2021-08-17T14:59:15-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hypertheory.training/docs/networking/local-area-networks/</loc>
+    <lastmod>2021-08-15T14:15:12-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hypertheory.training/docs/networking/host-names-and-ip/</loc>
+    <lastmod>2021-08-15T14:24:24-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hypertheory.training/docs/networking/localhost/</loc>
+    <lastmod>2021-08-15T14:25:57-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hypertheory.training/docs/networking/vpn/</loc>
+    <lastmod>2021-08-15T14:30:15-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hypertheory.training/docs/networking/subnetting/</loc>
+    <lastmod>2021-08-15T14:31:59-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hypertheory.training/docs/http/</loc>
+    <lastmod>2021-08-17T15:33:17-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hypertheory.training/docs/cloud-native/</loc>
+    <lastmod>2021-08-17T15:31:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hypertheory.training/docs/networking/osi-model/</loc>
+    <lastmod>2021-08-15T14:33:31-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hypertheory.training/updates/</loc>
+    <lastmod>2020-01-28T00:08:29+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hypertheory.training/</loc>
+    <lastmod>2020-01-26T04:15:05+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://hypertheory.training/ko/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hypertheory.training/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://hypertheory.training/docs/</loc>
+    <lastmod>2020-01-11T14:09:21+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hypertheory.training/blog/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hypertheory.training/tags/css/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://hypertheory.training/ko/tags/css/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hypertheory.training/tags/css/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://hypertheory.training/tags/html/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://hypertheory.training/ko/tags/html/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hypertheory.training/tags/html/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://hypertheory.training/tags/markdown/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://hypertheory.training/ko/tags/markdown/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hypertheory.training/tags/markdown/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://hypertheory.training/blog/markdown-syntax/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hypertheory.training/tags/themes/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://hypertheory.training/ko/tags/themes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hypertheory.training/tags/themes/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://hypertheory.training/tags/privacy/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://hypertheory.training/ko/tags/privacy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hypertheory.training/tags/privacy/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://hypertheory.training/blog/rich-content/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hypertheory.training/tags/shortcodes/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://hypertheory.training/ko/tags/shortcodes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hypertheory.training/tags/shortcodes/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://hypertheory.training/blog/placeholder-text/</loc>
+    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hypertheory.training/tags/text/</loc>
+    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://hypertheory.training/ko/tags/text/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hypertheory.training/tags/text/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://hypertheory.training/tags/emoji/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://hypertheory.training/ko/tags/emoji/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hypertheory.training/tags/emoji/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://hypertheory.training/blog/emoji-support/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+  </url>
+  
+</urlset>
